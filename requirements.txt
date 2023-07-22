@@ -1,0 +1,11 @@
+paperqa
+requests
+beautifulsoup4
+transformers
+numpy 
+pandas 
+scikit-learn 
+matplotlib 
+seaborn
+ipywidgets
+ipykernel
