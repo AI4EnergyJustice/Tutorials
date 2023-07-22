@@ -2,13 +2,20 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AI4EnergyJustice/Tutorials)
 
 
-# Tutorials
+# AI for Energy Justice
 
 This repository contains a series of Jupyter notebook tutorials for the AI for
 Energy Justice project. The tutorials cover a range of topics, including machine
 learning, large language models (LLMs), web scraping, and fine-tuning LLMs.
 
-## Content
+The goal of AI for Energy Justice is to create a question answering model
+customized for energy justice. The students can choose any open-source LLM to
+base their model and fine-tune it with the reports, news articles, and bills
+related to energy justice. To evaluate the performance of their models, students
+should identify a set of questions that they can use to monitor the accuracy of
+their models.
+
+## Tutorials
 
 1. [Machine Learning Tutorial](./ml_tutorial.ipynb): This tutorial provides an introduction to machine learning using the Scikit-Learn library. It covers the basics of loading data, training a model, and evaluating its performance.
 
