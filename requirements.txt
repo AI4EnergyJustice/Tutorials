@@ -1,11 +1,9 @@
-paperqa
 requests
 beautifulsoup4
 transformers
-numpy 
-pandas 
+xformers
 scikit-learn 
-matplotlib 
 seaborn
 ipywidgets
 ipykernel
+paper-qa
