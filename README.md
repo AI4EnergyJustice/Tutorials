@@ -15,6 +15,9 @@ related to energy justice. To evaluate the performance of their models, students
 should identify a set of questions that they can use to monitor the accuracy of
 their models.
 
+Before getting started with the tutorials please create accounts with OpenAI and HuggingFace.
+You can then create API Keys for these accounts.
+
 ## Tutorials
 
 1. [Machine Learning Tutorial](./ml_tutorial.ipynb): This tutorial provides an introduction to machine learning using the Scikit-Learn library. It covers the basics of loading data, training a model, and evaluating its performance.
